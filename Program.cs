@@ -79,7 +79,7 @@ namespace HomeWork3
             
             //  Console.WriteLine("Выберите 1 то 100");
             //  double num = double.Parse(Console.ReadLine());
-            //  if(num <=100){
+            //  if(num <=100 && num>=0){
 
             //      if(num>=0 && num<=14)
             //      {
